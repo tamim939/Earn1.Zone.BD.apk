@@ -1,0 +1,8 @@
+{
+  "name": "Earn Zone BD",
+  "description": "Android WebView wrapper for Tamim Bhai website.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
